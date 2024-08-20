@@ -38,8 +38,24 @@ Retorna a lista de séries.
 
 ![image](https://github.com/user-attachments/assets/a41360f9-4610-40ec-9080-3380fd832f60)
 
+#POST / Series
+**Resultado do Get no insomnia:**
+Série 4 criada
+![Img-Post](https://github.com/user-attachments/assets/23aef699-7241-43b5-a5ce-a00114cb3048)
 
 
+Série 5 criada
 
+![Img-Post2](https://github.com/user-attachments/assets/40216d99-a7be-4f96-8f55-b050a6116f73)
+
+# CHECAGEM COM GET
+**Resultado das séries 4 e 5 criadas com Post no insomnia:**
+
+Chegarem série 4
+![Img-Get 1](https://github.com/user-attachments/assets/dccb3683-b47f-4b4f-a345-71cf2a367ceb)
+
+Chegarem série 5
+
+![Img-Get 2](https://github.com/user-attachments/assets/39c3efe3-2960-4fa3-af7e-2f0ef5391cbe)
 
 
