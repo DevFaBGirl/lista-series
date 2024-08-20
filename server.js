@@ -21,7 +21,7 @@ router.post('/series', (req, res) => {
         status: req.body.status
     };
     
-    listaSeries.push(series); 
+    listaSeries.series.push(serie); 
     res.status(201).json({message: `Série '${serie.title}' adicionada com sucesso!`}); 
 });
 
