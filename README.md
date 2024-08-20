@@ -14,28 +14,6 @@ Esta é uma API simples desenvolvida em Node.js revisão e treinamento do PretaL
 Retorna a lista de séries.
 **Resultado do Get no insomnia:**
 
-```json
-[
-    {
-        "id": 1,
-        "title": "Breaking Bad",
-        "description": "Drama criminal.",
-        "status": true
-    },
-    {
-        "id": 2,
-        "title": "The Boys",
-        "description": "Ação e ficção científica.",
-        "status": true
-    },
-    {
-        "id": 3,
-        "title": "Black Mirror",
-        "description": "Ficção científica.",
-        "status": true
-    }
-]
-
 ![image](https://github.com/user-attachments/assets/a41360f9-4610-40ec-9080-3380fd832f60)
 
 #POST / Series
@@ -57,5 +35,8 @@ Chegarem série 4
 Chegarem série 5
 
 ![Img-Get 2](https://github.com/user-attachments/assets/39c3efe3-2960-4fa3-af7e-2f0ef5391cbe)
+
+
+
 
 
