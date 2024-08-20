@@ -1,5 +1,8 @@
-# lista-series
+# Primeira semana de aula do Preta Lab Aprofunda
+Nesta semana, no PretaLab Aprofunda, participei de aulas que me proporcionaram um entendimento mais profundo de áreas essenciais do desenvolvimento web. Começamos com os conceitos básicos de Back End, onde pude compreender melhor a estrutura e o funcionamento das aplicações além da interface do usuário. Em seguida, tivemos uma aula sobre o método de requisição HTTP, que esclareceu como as informações são transmitidas entre o cliente e o servidor, um conhecimento crucial para a construção de aplicações eficazes. Finalizamos a semana com uma revisão de JavaScript, onde reforcei minhas habilidades na linguagem, preparando-me para desafios mais avançados.
 
+
+#Tarefa semana 1 
 
 # API de Séries
 
@@ -33,7 +36,9 @@ Retorna a lista de séries.
     }
 ]
 
-![image](https://github.com/user-attachments/assets/eb442647-9a86-42f9-bdd1-53b85cd8c7cd)
+![image](https://github.com/user-attachments/assets/a41360f9-4610-40ec-9080-3380fd832f60)
+
+
 
 
 
